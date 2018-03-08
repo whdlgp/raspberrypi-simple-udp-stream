@@ -65,6 +65,12 @@ cscope.out
 cscope.in.out
 cscope.po.out
 
+# other ignore
+
+rpi_stream_receive
+test.*
+video.*
+
 
 
 # End of https://www.gitignore.io/api/c++,tags,cmake
