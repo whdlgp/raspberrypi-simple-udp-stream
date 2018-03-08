@@ -1,0 +1,6 @@
+[submodule "rpi-udp-stream-client"]
+	path = rpi-udp-stream-client
+	url = https://github.com/whdlgp/rpi-udp-stream-client.git
+[submodule "rpi-udp-stream-server"]
+	path = rpi-udp-stream-server
+	url = https://github.com/whdlgp/rpi-udp-stream-server.git
